@@ -1,3 +1,8 @@
+
+圆环形颜色选择器，可以改变颜色饱和度来选择颜色。
+选择颜色时，可以用手指沿着圆环滑动一个滑块，从而选择颜色。
+
+
 <h1>Android Holo ColorPicker</h1>
 
 Marie Schweiz made a beautifull new design for the Holo ColorPicker which added a lot of new functionality.
